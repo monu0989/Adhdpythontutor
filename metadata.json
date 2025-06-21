@@ -1,0 +1,5 @@
+{
+  "name": "ADHD Python Tutor",
+  "description": "An interactive Python tutor application designed to help users, particularly those with ADHD, learn Python programming concepts step-by-step with AI assistance.",
+  "requestFramePermissions": []
+}
